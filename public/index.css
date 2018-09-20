@@ -1,0 +1,43 @@
+body{
+    background-color:black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div{
+    margin: 40%;
+    margin-top: 10%;
+    width: 25%;
+    border-radius: 1em;
+    padding: 0;
+    background-color: rgb(255,255,240);
+    border-color:black;
+
+}
+h2 {
+    text-align:center;
+}
+.red1 {
+    background-color: rgb(255,11,0);
+    color: white;
+    height: 40%;
+    border-radius:0 0 1em 1em;
+    font-size:40%;
+    width: 100%;
+}
+.red2 {
+    background-color: rgb(255,11,0);
+    color: white;
+    font-size: 200%;
+    border-radius: 0.5em 0.5em 0 0;
+    letter-spacing: 0.2em;
+
+
+}
+.smalltext {
+    font-size: 75%;
+}
+.mediumtext {
+    font-size: 125%;
+}
+.largetext {
+    font-size: 300%;
+}
